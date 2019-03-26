@@ -1,0 +1,30 @@
+feature, relevanciaRegressaoLogistica
+Unnamed: 0,3.2785283288e-05
+AltimetriaNorm,-0.090738561748
+AmplitudeNorm,-0.0263098190611
+concavoConvNorm,0.00881752978067
+CurvaturaNegativaNorm,-0.372502447104
+CurvaturaPositivaNorm,-0.0136237035595
+DeclividadeNorm,-0.06127771639
+GeomIgualA1,-0.313979262626
+GeomIgualA2,0.102006378816
+GeomIgualA3,-0.243876036766
+GeomIgualA4,0.00153153461184
+GeomIgualA5,-0.0348033094332
+GeomIgualA6,-0.067542217072
+GeomIgualA7,-0.00416675712349
+GeomIgualA8,0.1387116843
+OrientacaoEncosta=1,-0.0530182813454
+OrientacaoEncosta=2,-0.0912147161394
+OrientacaoEncosta=3,-0.306050964376
+OrientacaoEncosta=4,-0.525555248343
+OrientacaoEncosta=5,-0.724943247963
+OrientacaoEncosta=6,-0.693978941633
+OrientacaoEncosta=7,-0.275734958077
+OrientacaoEncosta=8,1.20471403032
+OrientacaoEncosta=9,1.05195355972
+UsoSolo=1,-0.0700624728635
+UsoSolo=2,-0.0443651663006
+UsoSolo=3,-0.293384414482
+UsoSolo=4,-0.00121068527236
+UsoSolo=5,-0.00480602892429
